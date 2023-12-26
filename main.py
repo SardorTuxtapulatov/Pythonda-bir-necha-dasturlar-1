@@ -1,0 +1,11 @@
+print("Eshitardim 'kamalak' so'zin,\n Ko'rmagandim \"yaqindan\" o'zin.")
+print("\"Nexia\", \"Tico\", 'Damas' ko'rganlar qilar havas")
+print(" Tomonlari 27 ga teng kvadratning yuzi" ,27*27, "va perimetri" ,27*4, "teng")
+print("Doira yuzi",8**2*3.14, "teng")
+print ("Katetlari 9 va 7 bo'lgan to'g'ri burchakli uchburchakning gipotenuzasini toping (Pifagor formulasi yordamida)" ,9*9+7*7,)
+print ("Keltirilgan sonlarni o'rta arifmetigini toping:12, 45, 33" "Javobi",(12+45+33)/3,)
+print ("Berilgan parallelipipedning hajmini toping: Uzunligi - 10, kengligi - 18, baladligi - 7 ga teng" ,10*18*7,)
+print ("Berilgan Uchburchakning 3chi burchagining darajasini toping: 1-burchak =37 daraja, 2-burchak = 69 daraja" ,37+69,)
+print (180-106)
+print ("Teng tomonli uchburchakning perimetri 135ga teng uning tomonlarini uzunligi toping:" ,135/3,)
+ 
